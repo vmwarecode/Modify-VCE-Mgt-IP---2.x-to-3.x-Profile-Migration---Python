@@ -1,7 +1,7 @@
 #
 # Helping with 2.X to 3.X migrations where a unique management IP needed to be defined for each edge instead of 192.168.1.1
 #
-# Usage: VC_USERNAME='super@velocloud.net' VC_PASSWORD='vcadm!n' python XXXX.py
+# Usage: VC_USERNAME='xxxx@velocloud.net' VC_PASSWORD='xxxxx' python XXXX.py
 #
 
 import os
